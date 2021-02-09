@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<p align='center'>
+<a href="https://twitter.com/ceonelly"><img height="30" style="color:#1DA1F2" src="https://github.com/cgaulmon/cgaulmon/blob/main/icons/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/cdgaulmon/"><img height="30" src="https://github.com/cgaulmon/cgaulmon/blob/main/icons/linkedin.svg?raw=true"></a>
+</p>
+
 <!--
 **cgaulmon/cgaulmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
