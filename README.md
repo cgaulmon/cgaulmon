@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hello, I'm Cornell!
 
-
-
+### Hobbies
+<ul>
+  <li>Whiskey Enthusiast 🥃 </li>
+  <li>Pizza Lover 🍕 </li>
+</ul>
 <p align='center'>
 <a href="https://twitter.com/ceonelly"><img height="30" style="color:#1DA1F2" src="https://github.com/cgaulmon/cgaulmon/blob/main/icons/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cdgaulmon/"><img height="30" src="https://github.com/cgaulmon/cgaulmon/blob/main/icons/linkedin.svg?raw=true"></a>
