@@ -4,6 +4,7 @@
 <ul>
   <li>Whiskey Enthusiast 🥃 </li>
   <li>Pizza Lover 🍕 </li>
+  <li>Sports Fan 🏀🏈</li>
 </ul>
 <p align='center'>
 <a href="https://twitter.com/ceonelly"><img height="30" style="color:#1DA1F2" src="https://github.com/cgaulmon/cgaulmon/blob/main/icons/twitter.svg"></a>&nbsp;&nbsp;
